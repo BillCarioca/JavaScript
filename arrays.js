@@ -29,3 +29,4 @@ console.log(arr1.indexOf(79))     // retorna -1 se nao encontrar o elemento
 console.log(arr1.includes(5))     // retorna true se achao o elemento no array ou false se não achar
 // metodo reverse
 const arrInvrtido = arr1.reverse() // inverte a ordem dos elementos
+console.log(arrInvrtido)
