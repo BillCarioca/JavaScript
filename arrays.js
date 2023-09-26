@@ -30,3 +30,7 @@ console.log(arr1.includes(5))     // retorna true se achao o elemento no array o
 // metodo reverse
 const arrInvrtido = arr1.reverse() // inverte a ordem dos elementos
 console.log(arrInvrtido)
+
+const arr = new Array(1,2,3,4,3,5)
+console.log(arr.length)
+
